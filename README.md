@@ -3,4 +3,4 @@
 
  <!-- link to live site -->
 
- https://damel-single-price-grid.netlify.app/
+ https://dameldesign.github.io/single-price-grid-component-/
